@@ -1,0 +1,8 @@
+{
+  "scripts": {
+    "bluid":"npx tailwindcss -i ./input_style.css -o ./src/output.css --watch"
+  },
+  "devDependencies": {
+    "tailwindcss": "^3.4.4"
+  }
+}
